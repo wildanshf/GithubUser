@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="search">Search</string>
+    <string name="username">(@Username)</string>
+    <string name="name">Name</string>
+    <string name="repository">Repo</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="hello_blank_fragment">Blank Fragment</string>
+    <string name="favorite_menu">Favorite Menu</string>
+    <string name="theme_switch">Theme Switch</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
